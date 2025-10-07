@@ -16,7 +16,6 @@ This project integrates three major components:
 ---
 
 ## ⚙️ Features
-
 - ✅ Detect synthetic vs real faces using **Vision Transformer (ViT-Tiny)**
 - ⚡ REST API for **single**, **batch**, and **Base64** image detection
 - 🌓 Dark/Light mode toggle
